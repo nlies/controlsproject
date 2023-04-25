@@ -1,0 +1,17 @@
+﻿Station Name		ATIKOKAN
+Province or Territory		ONTARIO
+Latitude		48.75
+Longitude		-91.62
+Elevation		395.30
+Climate Identifier	6020379
+WMO Identifier		
+TC Identifier		
+"If Local Standard Time (LST) was selected, add 1 hour to adjust for Daylight Saving Time where and when it is observed."
+
+Legend
+E	Estimated
+M	Missing
+NA	Not Available*
+[empty]	Indicates an unobserved value
+
+*https://climate.weather.gc.ca/FAQ_e.html#Q5
